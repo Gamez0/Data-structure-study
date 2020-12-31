@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-	cout << "Dobin is Free!" << endl;
+	cout << "Joohee is Free!" << endl;
 }
