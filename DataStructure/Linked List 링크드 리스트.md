@@ -9,19 +9,19 @@
 
 ## Singly Linked List
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79941432-2ef2-4cac-b410-5f204fb16d97/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79941432-2ef2-4cac-b410-5f204fb16d97/Untitled.png)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/79941432-2ef2-4cac-b410-5f204fb16d97/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210101T132556Z&X-Amz-Expires=86400&X-Amz-Signature=315a1275c73de5a4e09210656f7865699d9c457688cde1b7c3f628679a816518&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/79941432-2ef2-4cac-b410-5f204fb16d97/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210101T132556Z&X-Amz-Expires=86400&X-Amz-Signature=315a1275c73de5a4e09210656f7865699d9c457688cde1b7c3f628679a816518&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 단일 연결 리스트는 각 노드에 자료 공간과 한 개의 포인터 공간이 있고, 각 노드의 포인터는 다음 노드를 가리킨다.
 
 ## Doubly Linked List
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83a921f7-cdec-4a73-8616-61a32d88b86e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83a921f7-cdec-4a73-8616-61a32d88b86e/Untitled.png)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/83a921f7-cdec-4a73-8616-61a32d88b86e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210101T132819Z&X-Amz-Expires=86400&X-Amz-Signature=e79308561316711fdcb261eca17d1dc0ab0f9c9bdfae586ec1c0611f5a082aeb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/83a921f7-cdec-4a73-8616-61a32d88b86e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210101T132819Z&X-Amz-Expires=86400&X-Amz-Signature=e79308561316711fdcb261eca17d1dc0ab0f9c9bdfae586ec1c0611f5a082aeb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 이중 연결 리스트의 구조는 단일 연결 리스트와 비슷하지만, 포인터 공간이 두 개가 있고 각각의 포인터는 앞의 노드와 뒤의 노드를 가리킨다.
 
 ## Circular Linked List
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31d33841-59e4-49dc-accc-c28b89330080/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31d33841-59e4-49dc-accc-c28b89330080/Untitled.png)
+![https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31d33841-59e4-49dc-accc-c28b89330080/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210101T132849Z&X-Amz-Expires=86400&X-Amz-Signature=9dfc66760df862f008bc2c38d407f9cae197207e12cdc2e5a3eb0f0ff0b51bc6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31d33841-59e4-49dc-accc-c28b89330080/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210101%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210101T132849Z&X-Amz-Expires=86400&X-Amz-Signature=9dfc66760df862f008bc2c38d407f9cae197207e12cdc2e5a3eb0f0ff0b51bc6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 원형 연결 리스트는 일반적인 연결 리스트에 마지막 노드와 처음 노드를 연결시켜 원형으로 만든 구조이다.
 
